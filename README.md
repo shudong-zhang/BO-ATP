@@ -1,2 +1,2 @@
 # BO-ATP
-BayesOpt attack with transferable priors
+Code for [Black-Box Bayesian Adversarial Attack with Transferable Priors]
